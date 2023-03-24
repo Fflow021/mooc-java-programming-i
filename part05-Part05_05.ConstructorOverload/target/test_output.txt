@@ -1,0 +1,1 @@
+[{"className":"ConstructorOverloadTest","methodName":"constructorWithName","pointNames":["05-05"],"status":"PASSED"},{"className":"ConstructorOverloadTest","methodName":"constructorWithNameAndLocation","pointNames":["05-05"],"status":"PASSED"},{"className":"ConstructorOverloadTest","methodName":"constructorWithNameAndWeight","pointNames":["05-05"],"status":"PASSED"}]
